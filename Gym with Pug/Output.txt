@@ -1,0 +1,6 @@
+Details are : 
+Monster 
+100 
+Hell
+Male
+I am ugly
